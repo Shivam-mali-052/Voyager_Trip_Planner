@@ -1,0 +1,7 @@
+{
+  "name": "Real-Time Budget Trip Planner",
+  "description": "A sophisticated travel planning application that utilizes Gemini's real-time grounding to provide weather-aware hotel and activity recommendations within a specific budget constraint in INR.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
